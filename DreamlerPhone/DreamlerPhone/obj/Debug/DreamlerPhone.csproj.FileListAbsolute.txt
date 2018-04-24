@@ -1,0 +1,16 @@
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\DreamlerPhone.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\DreamlerPhone.pdb
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.dll
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.pdb
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.Views.LoginPage.xaml.g.cs
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.Views.BoardListPage.xaml.g.cs
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\obj\Debug\DreamlerPhone.dll.mdb
+C:\Users\Martin\Dropbox\Dreamler\DreamlerPhone\DreamlerPhone\DreamlerPhone\bin\Debug\DreamlerPhone.dll.mdb
