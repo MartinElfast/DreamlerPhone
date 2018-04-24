@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace DreamlerPhone.ViewModels {
     public class LoginVM : INotifyPropertyChanged {
-        private string  _username   = "glenn@zayas.se";
-        private string  _password   = "glenn";
+        private string  _username   = "tester01@test.test";
+        private string  _password   = "tester01password";
         private string  _fdbkMsg    = "";
 
         public string UsernameText {
