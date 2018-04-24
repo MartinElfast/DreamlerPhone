@@ -4,5 +4,4 @@
 
 If you are just taking a look a good place to start is DreamlerPhone/DreamlerPhone/Pages/LoginPage.cs
 
-This was my first Xamarin project and there was no other developer in the company with experience in Xamarin.
-
+Note to reader: This was my first/learning Xamarin project and there was no other developer in the company with experience in Xamarin.
